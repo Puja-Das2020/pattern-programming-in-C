@@ -1,3 +1,15 @@
+/*
+if line=5
+output is
+
+          1
+       2  1  2 
+    3  2  1  2  3
+  4 3  2  1  2  3 4
+5 4 3  2  1  2  3 4 5
+
+
+*/
 #include<stdio.h>
 #include<conio.h>
 main()
